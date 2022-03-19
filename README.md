@@ -1,2 +1,1 @@
-# Baekjoon_st
-study
+# Baekjoon_study
